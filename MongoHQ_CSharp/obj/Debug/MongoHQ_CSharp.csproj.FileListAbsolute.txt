@@ -1,0 +1,13 @@
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoHQ_CSharp.dll
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoHQ_CSharp.pdb
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\EntityFramework.dll
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoDB.Bson.dll
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoDB.Driver.dll
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\EntityFramework.xml
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoDB.Bson.pdb
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoDB.Bson.xml
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoDB.Driver.pdb
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\bin\MongoDB.Driver.xml
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\obj\Debug\MongoHQ_CSharp.dll
+C:\Users\Trent\Dropbox\Urban Coding\clients\MongoHQ\Projects\MongoHQ_CSharp\MongoHQ_CSharp\obj\Debug\MongoHQ_CSharp.pdb
